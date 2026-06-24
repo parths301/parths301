@@ -2,7 +2,7 @@
 
 # Hey there, I'm Parth Sharma 👋
 
-### Lawyer turned Builder • Vibe Coding with AI
+### Lawyer turned Builder • Vibe Coding
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-sharma-sls/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthsh.ind@gmail.com)
@@ -15,12 +15,12 @@
 ### 🧑‍💻 About Me
 
 - ⚖️ **Background**: Former M&A Associate at **Shardul Amarchand** (India's premier law firm).
-- 🚀 **Builder Journey**: Transitioned from law to building tech. I am a **vibe coder**—I rely on AI assistance to design, architect, and code my projects, while having a working understanding of the underlying languages and technologies.
+- 🚀 **Builder Journey**: Transitioned from law to building tech. I am a **vibe coder**—I design, architect, and code my projects, while having a working understanding of the underlying languages and technologies.
 - 📬 **Contact**: Reach me via email at [parthsh.ind@gmail.com](mailto:parthsh.ind@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/parth-sharma-sls/).
 
 ---
 
-### 🛠️ Languages & Tools I Vibe With (using AI)
+### 🛠️ Languages & Tools
 
 <div align="center">
 
@@ -45,7 +45,7 @@ Here are my public projects:
 |---------|-------------|-------|
 | [**Euclid Anti-IDE**](https://github.com/parths301/euclid-anti-ide) | ⚖️ India-focused AI Due Diligence Platform prototype featuring interactive map workflows & chat. | JavaScript, Leaflet, Vite |
 | [**AIB Hub**](https://github.com/parths301/aib-hub) | 💼 Creator Hub & Job Board registration dashboard prototype. | React, TypeScript, Supabase |
-| [**Oh My Gogh**](https://github.com/parths301/oh-my-gogh) | 🎨 Interactive ASCII art generator rendering mouse-reactive animations on HTML5 canvas. | JavaScript, HTML5 Canvas |
+| [**Oh My Gogh**](https://github.com/parths301/oh-my-gogh) | 🎨 Interactive landing page made with ASCII art generator rendering mouse-reactive animations on HTML5 canvas. | JavaScript, HTML5 Canvas |
 | [**Report Right**](https://github.com/parths301/report-right) | 📊 FEMA & RBI compliance landing page for an advisory consultancy. | HTML, CSS |
 | [**CPP-projects**](https://github.com/parths301/CPP-projects) | ⚙️ Console Bank Management System demonstrating file serialization (high school CS project). | C++ |
 
