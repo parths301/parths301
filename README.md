@@ -39,7 +39,7 @@
 
 ### Featured — AI Legal Due-Diligence Platform
 
-An AI-powered platform that automates legal due diligence for Indian corporate transactions: AI-drafted, citation-backed report sections across the standard DD chapters, a document-analysis pipeline, integrated Indian legal-research connectors, and Word/PDF export. Built in two parallel designs:
+An AI-powered platform that automates legal due diligence for Indian corporate transactions: AI-drafted, citation-backed report sections across the standard DD chapters, a document-analysis pipeline, integrated Indian legal-research connectors, and Word/PDF export. Built in two parallel designs — **both under active construction:**
 
 <table>
 <tr>
@@ -66,9 +66,9 @@ Next.js / shadcn dashboard with Gemini, Indian Kanoon research, a rich-text edit
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [Gov-View](https://github.com/parths301/govview-2) | Dashboard for analysing government solicitations and drafting proposal responses. | React, TypeScript, Supabase |
+| [Gov-View](https://github.com/parths301/govview-2) | Dashboard for analysing government solicitations and drafting proposal responses _(under construction)_. | React, TypeScript, Supabase |
 | [AIB Hub](https://github.com/parths301/aib-hub) | Creator hub and job-board registration dashboard prototype. | React, TypeScript, Supabase |
-| [Oh My Gogh](https://github.com/parths301/oh-my-gogh) | Generative-AI art & lifestyle store — currently a coming-soon landing page (under construction). | JavaScript, AI |
+| [Oh My Gogh](https://github.com/parths301/oh-my-gogh) | Upcoming brand selling lifestyle products for artists — art supplies, apparel, prints, and more; currently a coming-soon landing page _(under construction)_. | JavaScript |
 | [Report Right](https://github.com/parths301/report-right) | FEMA and RBI compliance landing page for an advisory consultancy. | HTML, CSS |
 | [CPP-projects](https://github.com/parths301/CPP-projects) | Console bank management system demonstrating file serialization (high school CS project). | C++ |
 
@@ -78,7 +78,7 @@ Next.js / shadcn dashboard with Gemini, Indian Kanoon research, a rich-text edit
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parths301&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parths301&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parths301&layout=compact&theme=tokyonight&hide_border=true)
 
