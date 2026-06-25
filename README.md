@@ -37,13 +37,38 @@
 
 ---
 
-### Public Repositories
+### Featured — AI Legal Due-Diligence Platform
+
+An AI-powered platform that automates legal due diligence for Indian corporate transactions: AI-drafted, citation-backed report sections across the standard DD chapters, a document-analysis pipeline, integrated Indian legal-research connectors, and Word/PDF export. Built in two parallel designs:
+
+<table>
+<tr>
+<td width="50%">
+
+#### [Euclid Anti-IDE](https://github.com/parths301/euclid-anti-ide)
+Vanilla JS / Vite build with an interactive India map and a glassmorphism interface.
+
+`JavaScript` `Vite`
+
+</td>
+<td width="50%">
+
+#### [Axiom AI](https://github.com/parths301/axiom-ai-dashboard)
+Next.js / shadcn dashboard with Gemini, Indian Kanoon research, a rich-text editor, and Word export.
+
+`Next.js` `TypeScript` `shadcn`
+
+</td>
+</tr>
+</table>
+
+### Other Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [Euclid Anti-IDE](https://github.com/parths301/euclid-anti-ide) | India-focused due-diligence platform prototype with interactive map workflows and a chat interface. | JavaScript, Leaflet, Vite |
+| [Gov-View](https://github.com/parths301/govview-2) | Dashboard for analysing government solicitations and drafting proposal responses. | React, TypeScript, Supabase |
 | [AIB Hub](https://github.com/parths301/aib-hub) | Creator hub and job-board registration dashboard prototype. | React, TypeScript, Supabase |
-| [Oh My Gogh](https://github.com/parths301/oh-my-gogh) | Interactive landing page with mouse-reactive canvas animations. | JavaScript, HTML5 Canvas |
+| [Oh My Gogh](https://github.com/parths301/oh-my-gogh) | Generative-AI art & lifestyle store — currently a coming-soon landing page (under construction). | JavaScript, AI |
 | [Report Right](https://github.com/parths301/report-right) | FEMA and RBI compliance landing page for an advisory consultancy. | HTML, CSS |
 | [CPP-projects](https://github.com/parths301/CPP-projects) | Console bank management system demonstrating file serialization (high school CS project). | C++ |
 
