@@ -71,3 +71,11 @@ Next.js / shadcn dashboard with Gemini, Indian Kanoon research, a rich-text edit
 | [Oh My Gogh](https://github.com/parths301/oh-my-gogh) | Upcoming brand selling lifestyle products for artists — art supplies, apparel, prints, and more; currently a coming-soon landing page _(under construction)_. | JavaScript |
 | [Report Right](https://github.com/parths301/report-right) | FEMA and RBI compliance landing page for an advisory consultancy. | HTML, CSS |
 | [CPP-projects](https://github.com/parths301/CPP-projects) | Console bank management system demonstrating file serialization (high school CS project). | C++ |
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=parths301&color=blueviolet&style=flat-square)
+
+</div>
